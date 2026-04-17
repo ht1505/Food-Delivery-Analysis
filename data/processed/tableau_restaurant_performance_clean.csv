@@ -1,0 +1,25 @@
+Restaurant name,City,Subzone,Orders,Success_Rate,Avg_Rating,Avg_KPT_Min,Revenue,Avg_Order_Value,Complaint_Rate
+Aura Pizzas,Delhi NCR,DLF Phase 1,2545,0.9914,4.3298,18.857,1969834.74,774.0019,0.0306
+Aura Pizzas,Delhi NCR,Greater Kailash 2 (GK2),4418,0.9889,4.3402,17.6059,3101570.38,702.0304,0.0206
+Aura Pizzas,Delhi NCR,Sector 135,2051,0.9922,4.1955,15.1596,1510130.47,736.2898,0.0161
+Aura Pizzas,Delhi NCR,Sector 4,4614,0.9913,4.3327,16.3807,3480386.04,754.3099,0.0293
+Aura Pizzas,Delhi NCR,Vasant Kunj,920,0.9957,4.3534,17.4279,689695.79,749.6693,0.0196
+Dilli Burger Adda,Delhi NCR,DLF Phase 1,34,0.9706,4.0,18.4285,11471.32,337.3918,0.0294
+Dilli Burger Adda,Delhi NCR,Greater Kailash 2 (GK2),109,0.9725,4.12,20.1162,52519.4,481.8294,0.0459
+Dilli Burger Adda,Delhi NCR,Sector 135,23,1.0,5.0,17.3191,9071.1,394.3957,0.0435
+Dilli Burger Adda,Delhi NCR,Sector 4,47,1.0,4.2857,19.4953,21448.76,456.3566,0.0213
+Dilli Burger Adda,Delhi NCR,Shahdara,14,1.0,5.0,19.5864,7199.04,514.2171,0.0
+Masala Junction,Delhi NCR,Sector 4,28,0.9286,4.8261,13.6638,9162.3,327.225,0.0
+Swaad,Delhi NCR,DLF Phase 1,1079,0.9917,4.5354,18.9101,603399.06,559.2206,0.0139
+Swaad,Delhi NCR,Greater Kailash 2 (GK2),2781,0.9942,4.4475,18.332,1536942.26,552.6581,0.0165
+Swaad,Delhi NCR,Sector 135,367,1.0,4.3947,18.8932,238993.16,651.2075,0.0082
+Swaad,Delhi NCR,Sector 4,1774,0.9865,4.3782,15.8271,937721.07,528.5914,0.0186
+Swaad,Delhi NCR,Shahdara,331,0.997,4.069,18.4632,228466.31,690.2305,0.0242
+Tandoori Junction,Delhi NCR,DLF Phase 1,28,0.9643,4.5,20.817,19724.48,704.4457,0.0
+Tandoori Junction,Delhi NCR,Greater Kailash 2 (GK2),72,0.9861,4.5,23.0051,65215.44,905.77,0.0
+Tandoori Junction,Delhi NCR,Sector 135,1,1.0,5.0,24.93,898.88,898.88,0.0
+Tandoori Junction,Delhi NCR,Sector 4,38,0.9737,5.0,19.508,34386.1,904.8974,0.0
+Tandoori Junction,Delhi NCR,Shahdara,15,1.0,4.5,17.5,13441.05,896.07,0.0
+The Chicken Junction,Delhi NCR,Chittaranjan Park,2,1.0,,14.32,949.62,474.81,0.5
+The Chicken Junction,Delhi NCR,Sector 4,29,1.0,4.6923,15.5831,10990.37,378.9783,0.0
+The Chicken Junction,Delhi NCR,Sikandarpur,1,1.0,,15.87,441.0,441.0,0.0

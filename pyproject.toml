@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "food-delivery-analysis"
+version = "1.0.0"
+description = "End-to-end food delivery analytics project with Python data pipeline and Tableau outputs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2.0"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
